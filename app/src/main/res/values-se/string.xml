@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">P2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="username">Användarnamn</string>
+    <string name="new_user">NY ANVÄNDARE</string>
+    <string name="save">Spara</string>
+    <string name="cancel">Avbryt</string>
+    <string name="no_groups_available">Inga grupper existerar</string>
+    <string name="new_group">NY GRUPP</string>
+    <string name="group">Gruppnamn</string>
+    <string name="update">UPPDATERA</string>
+    <string name="register_all">REGISTERA ALLA</string>
+    <string name="unregister">AVREGISTERA</string>
+    <string name="terrain">TERRÄNG</string>
+    <string name="normal">NORMAL</string>
+    <string name="hybrid">HYBRID</string>
+    <string name="satellite">SATELLIT</string>
+    <string name="none">INGEN</string></resources>

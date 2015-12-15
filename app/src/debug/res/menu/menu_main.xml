@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.idnert.p2_2015_12_10.MainActivity">
+
+
+    <item
+        android:id="@+id/action_register_all"
+        android:orderInCategory="300"
+        android:title="@string/register_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_new_group"
+        android:orderInCategory="200"
+        android:title="@string/new_group"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_update"
+        android:orderInCategory="100"
+        android:title="@string/update"
+        app:showAsAction="never" />
+</menu>
+
+

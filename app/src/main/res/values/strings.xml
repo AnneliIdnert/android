@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">P2_2015-12-10</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="new_user">NEW USER</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_groups_available">No groups exists</string>
+    <string name="new_group">NEW GROUP</string>
+    <string name="group">Group name</string>
+    <string name="update">UPDATE</string>
+    <string name="register_all">REGISTER ALL</string>
+    <string name="unregister">UNREGISTER</string>
+    <string name="terrain">TERRAIN</string>
+    <string name="normal">NORMAL</string>
+    <string name="hybrid">HYBRID</string>
+    <string name="satellite">SATELLITE</string>
+    <string name="none">NONE</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
